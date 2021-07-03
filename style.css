@@ -412,15 +412,16 @@ a {
     padding-bottom: 4rem;
    
 }
-.head{
+.head-2{
     font-size: 1.1rem;
     color: #434343;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 4rem;
+    margin-bottom: 1rem;
     
 }
+
 .employee img{
     width: 14rem;
 }
